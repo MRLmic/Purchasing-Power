@@ -11,3 +11,16 @@ My intention for the project is to provide an easy-to-use interface where users 
 - **Support small businesses** over large corporations.
 - **Avoid monopolistic companies** and make choices that promote competition.
 - **Make informed purchasing decisions** by evaluating the social and environmental impact of different brands.
+
+## Starting small and scaling from there:
+- The first items to be searchable will be personal care products including:
+    - feminine hygeine products
+    - toothpaste
+    - paper towels and toilet paper
+    - shampoo
+    - baby care products
+    - deoderant
+    - skincare
+
+##Technologies
+- I am utilizing a python script to normalize .csv files and insert them into a sqlite database.
