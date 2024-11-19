@@ -3,6 +3,7 @@
 ## Overview
 
 This project aims to provide a **searchable front-end** based on CSV data collected from the [Cancel This Clothing Company Resources](https://cancelthisclothingcompany.com/resources/). The goal is to empower consumers with information that enables them to make informed decisions about which businesses to support, avoid contributing to investment firms approaching a monopolistic hold, and promote small businesses and healthy competition.
+Read more [here from the American Economic Liberties Project](https://www.economicliberties.us/our-work/new-money-trust/)
 
 ## Purpose
 
