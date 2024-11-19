@@ -22,5 +22,6 @@ My intention for the project is to provide an easy-to-use interface where users 
     - deoderant
     - skincare
 
-##Technologies
-- I am utilizing a python script to normalize .csv files and insert them into a sqlite database.
+## Technologies
+- I am utilizing a python script and the pandas library to normalize .csv files and insert them into a sqlite database.
+- I'm using [sqlite viewer](https://sqliteviewer.app/) to view my sqlite database's contents.
