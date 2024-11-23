@@ -26,6 +26,7 @@ My intention for the project is to provide an easy-to-use interface where users 
 ## Technologies
 - I am utilizing a python script and the pandas library to normalize .csv files and insert them into a sqlite database.
 - I'm using [sqlite viewer](https://sqliteviewer.app/) to view my sqlite database's contents.
+- My mockup was created using Figma.
 
 ## Figma Mock-up
 ![Mockup](https://github.com/MRLmic/Who-Owns-That/blob/main/Assets/FigmaHome.png)  
