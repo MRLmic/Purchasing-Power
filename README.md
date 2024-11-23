@@ -28,4 +28,4 @@ My intention for the project is to provide an easy-to-use interface where users 
 - I'm using [sqlite viewer](https://sqliteviewer.app/) to view my sqlite database's contents.
 
 ## Figma Mock-up
-![Mockup](FigmaHome.png)  
+![Mockup](https://github.com/MRLmic/Who-Owns-That/blob/main/Assets/FigmaHome.png)  
