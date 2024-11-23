@@ -29,4 +29,4 @@ My intention for the project is to provide an easy-to-use interface where users 
 - My mockup was created using Figma.
 
 ## Figma Mock-up
-![Mockup](https://github.com/MRLmic/Who-Owns-That/blob/main/Assets/FigmaHome.png)  
+![Mockup](https://github.com/MRLmic/Purchasing-Power/blob/main/Assets/FigmaHome.png)
